@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Personcard from './Components/Personcard'
-import Personinfo from './Components/Personinfo'
+
 
 function App() {
   return (
